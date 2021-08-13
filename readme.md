@@ -5,4 +5,4 @@ en mi archivo html cree lo que se ve a simple vista que fueron los campos del ti
 
 en CSS le di torma a la pantalla tanto el fondo como la OPACIDAD del recuadro estilo de letra tamaños etc
 
-En JavaScript al ver que solo me solititaron la conversion de 5 Divisas, cree la variale de cada una de ellas para enlazarlas entre si Atravez de condicionales 
+En JavaScript al ver que solo me solititaron la conversion de 5 Divisas, cree un array con un solo objeto para establecer el valor de las monedas y despues hacer la conversion
