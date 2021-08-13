@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+*{
+    padding: 0px;
+    margin: 50px;
+    font-family: 'Josefin Sans', sans-serif;
+    
+}
+
+body{
+
+    background-image: url(https://www.transaccionescolombia.com/wp-content/uploads/2020/03/pares-de-divisas-mayores-en-forex.jpg);
+}
+
+.contenedor{
+
+    padding: 0px;
+    margin: auto;
+    width: 700px;
+    height: 500px;
+    background-color: rgb(179, 179, 179);
+    border-radius: 90px;
+    opacity: 0.9;
+    clip-path: circle(150% at top left);
+    transition-duration: 5s;
+}
+
+.contenedor:hover{
+
+    clip-path: circle(150% at top left);
+}
+
+
+.titulo{
+
+    font-family: 'Josefin Sans', sans-serif;
+    position: absolute;
+    top: 10%;
+    left: 33%;
+    font-size: 50px;
+}
+
+#cantidad{
+    font-size: 20px;
+
+}
+
+.rango{
+
+    padding: 90px;
+    margin-bottom: 0;
+    margin-top: 0;
+    width: 500px;
+    height: 0px;
+    font-size: 30px;
+    padding-bottom: 50px;
+    color: black;
+    
+    
+}
+
+#de{
+
+    padding: 0px;
+    margin: auto;
+    width: 300px;
+    height: 30px;
+    font-size: 20px;
+   
+    
+}
+
+#a{
+
+    padding: 0px;
+    margin: auto;
+    width: 300px;
+    height: 30px;
+    font-size: 20px;
+  
+    
+}
+
+.subtitulo{
+
+    padding: 0px;
+    margin: 0px;
+}
+
+.divisas{
+
+    padding: 0px;
+    margin: 200px;
+    margin-top: 50px;
+   
+
+}
+
+#valor{
+
+
+    padding: 20px;
+    margin: auto;
+    width: 300px;
+    height: 30px;
+    font-size: 20px;
+    color: rgb(3, 87, 20);
+
+}
+
+#resultado:hover{
+
+    color: rgb(104, 174, 35);
+}
